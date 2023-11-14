@@ -9,6 +9,10 @@ django-modeltranslation = "*"
 django-parler = "*"
 django-translated-fields = "*"
 django-translations = "*"
+black = "*"
+isort = "*"
+ruff = "*"
+pre-commit = "*"
 
 [dev-packages]
 
