@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cwd": "${workspaceFolder}\\backend",
+    "python.pipenvPath": "pipenv"
+}
